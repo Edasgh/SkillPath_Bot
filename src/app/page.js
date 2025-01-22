@@ -67,7 +67,7 @@ const Home = () => {
         >
           <div className="flex flex-col gap-8 justify-start mt-12 px-20 items-start w-[40rem]">
             <p
-              className="text-white text-4xl"
+              className="text-[#094b4d] text-4xl"
               style={{ textShadow: "1px 1px 4px grey, -1px -1px 4px grey" }}
             >
               Welcome to&nbsp;
