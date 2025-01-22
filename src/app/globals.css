@@ -7,4 +7,49 @@
   --foreground: #171717;
 }
 
+body {
+  position: relative;
+  overflow-x: hidden;
+}
 
+.react-chatbot-kit-chat-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.react-chatbot-kit-chat-inner-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.react-chatbot-kit-chat-input-container {
+  padding: 1rem 2.5rem;
+  width: 100vw !important;
+  bottom: 3rem;
+}
+
+.react-chatbot-kit-chat-message-container {
+  height: 90vh !important;
+  overflow: scroll !important;
+  overflow-x: hidden !important;
+}
+
+.react-chatbot-kit-chat-input {
+  outline: 1px solid #171717;
+  border: 1px solid #171717;
+  font-size: 1.1rem !important;
+}
+
+.react-chatbot-kit-chat-btn-send-icon {
+  width: 1.4rem !important;
+}
+
+.react-chatbot-kit-chat-bot-message-container {
+  width: 15rem;
+  margin-bottom: 1.25rem;
+}
+
+.react-chatbot-kit-chat-bot-message ,.react-chatbot-kit-user-chat-message{
+  margin-bottom: 1.5rem !important;
+  font-size: 1.15rem !important;
+}
