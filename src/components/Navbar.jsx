@@ -8,7 +8,7 @@ const Navbar = () => {
           href={"/skill_path_bot"}
           className="text-black font-bold text-2xl"
         >
-          SkillPath Bot
+          🤖 SkillPath Bot
         </Link>
         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
           <Link
@@ -66,7 +66,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="/"
+                href="mailTo:edas25564@gmail.com"
                 className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 "
               >
                 Contact
