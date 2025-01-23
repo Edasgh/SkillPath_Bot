@@ -6,6 +6,9 @@ language, or exploring creative hobbies, SkillPath Bot simplifies
 your journey with clear guidance and tailored plans. Unlock your
 potential and achieve your goals one step at a time!
 
+## Live Link:
+https://skill-path-bot.vercel.app/
+
 ## Tech Stack :
 - Next.js (JS)
 - Tailwind CSS
